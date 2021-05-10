@@ -1,6 +1,6 @@
 ### Olá! Sou o Edvaldo :sunglasses:
 
-:coffee: Analista jr - Desenvolvedor em java :house_with_garden: São paulo :earth_americas: Brasil
+:coffee: Analista jr - Desenvolvedor Back - End em java :house_with_garden: São paulo :earth_americas: Brasil
 
 
 ### Encontre-me por aqui :mag_right:
