@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C4D1BAQHw_kOUVXlY6Q/company-background_10000/0/1577983323327?e=2159024400&v=beta&t=sEXRuOr-xiBCYpGBAaCe_t8Ss-FAD1lZeb4mCKqf0t4">
 
+---
 <h1 align = "center"> Hello 👋 I'm  Edvaldo Junior </h1><h3 align = "center"> ☕ Developer Back - End jr ( Java ) 🏡 São Paulo 🌎 Brazil 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=edvaldoljr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
