@@ -1,8 +1,10 @@
 
 
-
+---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&size=45&lines=Hello+%F0%9F%91%8B+I'm+Edvaldo+Junior)](https://git.io/typing-svg)
- ☕ Developer Back - End jr ( Java ) 🏡 São Paulo 🌎 Brazil 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&size=40&lines=+%E2%98%95+Developer+Back+-+End+jr+(+Java+)+%F0%9F%8F%A1+S%C3%A3o+Paulo+%F0%9F%8C%8E+Brazil+)](https://git.io/typing-svg)
+
 
  ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=edvaldoljr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
