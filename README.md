@@ -1,8 +1,4 @@
-<h1 align = "center"> Hello 👋 I'm  Edvaldo Junior </h1><h3 align = "center"> 
- ☕ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&size=30&lines=Developer+Back+-+End+jr+(+Java+))](https://git.io/typing-svg)
- 🏡 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&size=30&lines=S%C3%A3o+Paulo)](https://git.io/typing-svg)
- 🌎 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&size=30&lines=Brazil)](https://git.io/typing-svg)
- 
+<h1 align = "center"> Hello 👋 I'm  Edvaldo Junior </h1><h3 align = "center"> ☕ Developer Back - End jr ( Java ) 🏡 São Paulo 🌎 Brazil 
 [![trophy](https://github-profile-trophy.vercel.app/?username=edvaldoljr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  ---
@@ -25,4 +21,4 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/edvaldo.dev/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
- :octocat:
+
