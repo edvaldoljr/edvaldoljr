@@ -19,4 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------
-### Obrigada pela visita ! :oct
+### Obrigada pela visita ! :octocat:
