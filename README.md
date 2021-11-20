@@ -4,13 +4,6 @@
 ### Encontre-me por aqui :mag_right:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.https://www.linkedin.com/in/edvaldo-junior-77a7251a0/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/edvaldo.dev/)
-  
-  ## My GitHub Stats 📊
-<a href="https://github.com/edvaldoljr/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulbanerjee26&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/edvaldoljr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr" />
-</a>
+ 
   
 ### Obrigada pela visita ! :octocat:
