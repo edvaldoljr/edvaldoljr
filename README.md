@@ -22,4 +22,6 @@
 ### Find me around here :mag_right:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.https://www.linkedin.com/in/edvaldo-junior-77a7251a0/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/edvaldo.dev/)
-### Obrigada pela visita ! :octocat:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
+ :octocat:
