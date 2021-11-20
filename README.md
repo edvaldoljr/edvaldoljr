@@ -9,8 +9,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
  ---------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edvaldoljr&hide=contribs,prs&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edvaldoljr&hide=contribs,prs&show_icons=true&theme=gotham)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edvaldoljr&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 -----------
