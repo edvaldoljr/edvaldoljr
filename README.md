@@ -6,10 +6,10 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/edvaldo.dev/)
   
   ## My GitHub Stats 📊
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/edvaldoljr/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulbanerjee26&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
+<a href="https://github.com/edvaldoljr/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr" />
 </a>
 ### Obrigada pela visita ! :octocat:
