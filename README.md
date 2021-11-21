@@ -1,6 +1,5 @@
 <h1 align = "center"> Hello 👋 I'm  Edvaldo Junior </h1><h3 align = "center"> ☕ Developer Back - End jr ( Java ) 🏡 São Paulo 🌎 Brazil 
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=edvaldoljr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
  ---
