@@ -14,8 +14,6 @@
 
 ---
 
-![Snake animation](https://github.com/edvaldoljr/edvaldoljr/blob/output/github-contribution-grid-snak.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -24,4 +22,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/edvaldo.dev/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
+
+
+![Snake animation](https://github.com/edvaldoljr/edvaldoljr/blob/output/github-contribution-grid-snak.svg)
 
