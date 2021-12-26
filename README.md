@@ -14,6 +14,8 @@
 
 ---
 
+![Snake animation](https://github.com/edvaldoljr/edvaldoljr/blob/output/github-contribution-grid-snak.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
